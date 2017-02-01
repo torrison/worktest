@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63bf4356-df73-4fb0-8fa1-b12c33ab2768" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/doc/AUTHORS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/doc/COPYING" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/doc/ChangeLog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/doc/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/doc/TESTS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/doc/TODO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/doc/VERSION" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/extensions/phpMyEdit-mce-cal.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/extensions/phpMyEdit-report.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/extensions/phpMyEdit-slide.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/images/alt/pme-change.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/images/alt/pme-copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/images/alt/pme-delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/images/alt/pme-view.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/images/pme-change.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/images/pme-copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/images/pme-delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/images/pme-view.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.CA-LATIN1.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.CA-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.CA.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.CZ-LATIN2.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.CZ-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.CZ.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.DE-LATIN1.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.DE-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.DE.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.DK-LATIN1.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.DK-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.DK.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.EL-LATIN7.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.EL-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.EL.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.EN-US.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.EN.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ES-AR-LATIN1.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ES-AR-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ES-AR.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ES-LATIN1.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ES-MX-LATIN1.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ES-MX-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ES-MX.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ES-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ES.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ET-LATIN1.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ET-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ET.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.EU.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.FR-LATIN1.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.FR-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.FR.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ID.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.IT.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.JP-EUCJP.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.JP-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.JP.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.NL-LATIN1.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.NL-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.NL.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.PL-LATIN2.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.PL-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.PL.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.PT-BR-LATIN1.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.PT-BR-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.PT-BR.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.PT-LATIN1.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.PT-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.PT.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.RO.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.RU-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.RU-WINDOWS1251.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.RU.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.SE-LATIN1.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.SE-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.SE.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.SK-LATIN2.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.SK-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.SK.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.TR-LATIN9.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.TR-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.TR.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ZH-BIG5.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ZH-SG.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ZH-UTF8.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/lang/PME.lang.ZH.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/phpMyEdit.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpmyadmin/phpMyEditSetup.php" afterPath="" />
+    </list>
+    <ignored path="WorkTest Sandbox.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="WorkTest Sandbox" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.031847134">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev1" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/system/core/Common.php" />
+        <option value="$PROJECT_DIR$/yii/config/web.php" />
+        <option value="$PROJECT_DIR$/yii/.htaccess" />
+        <option value="$PROJECT_DIR$/application/views/outside/pages/index.php" />
+        <option value="$PROJECT_DIR$/ci3/.htaccess" />
+        <option value="$PROJECT_DIR$/ci3/application/controllers/Welcome.php" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/application/config/_database.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="23" />
+    <option name="width" value="1436" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTest Sandbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTest Sandbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WorkTest Sandbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="136" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="138" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="141" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="936" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="136" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="138" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="141" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="936" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/phpmyadmin" />
+      <recent name="$PROJECT_DIR$/sql" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63bf4356-df73-4fb0-8fa1-b12c33ab2768" name="Default" comment="" />
+      <created>1485908741347</created>
+      <option name="number" value="Default" />
+      <updated>1485908741347</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1485909162287</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1485909162287</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update">
+      <created>1485911589327</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1485911589327</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update">
+      <created>1485913136560</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1485913136560</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update">
+      <created>1485913742014</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1485913742014</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update">
+      <created>1485914127020</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1485914127020</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update">
+      <created>1485915303303</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1485915303303</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update">
+      <created>1485915533028</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1485915533028</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update">
+      <created>1485915997447</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1485915997447</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update">
+      <created>1485916990265</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1485916990265</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update">
+      <created>1485917022725</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1485917022725</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update">
+      <created>1485917388129</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1485917388129</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="23" width="1436" height="877" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299363" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998565" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3299363" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/system/core/Common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17721519">
+          <caret line="233" column="0" selection-start-line="233" selection-start-column="0" selection-end-line="233" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ci3/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07926024">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ci3/application/controllers/Welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5736544">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/outside/pages/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12278308">
+          <caret line="6" column="90" selection-start-line="6" selection-start-column="90" selection-end-line="6" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yii/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11889036">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yii/config/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53206">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/_database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46793997">
+          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8ea32c49-065e-43a5-a4f9-627de8ccc33d/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0126582">
+          <caret line="52" column="44" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.031847134">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
